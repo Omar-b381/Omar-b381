@@ -29,15 +29,4 @@ I'm a data analyst and machine learning engineer with over 4 years of experience
 📫 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarbadrdata/)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:omar.work381@gmail.com)
 
----
-
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-ahmed&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ahmed&layout=compact" width="48%" />
-</p>
-
----
-
 🧠 *"Data is the new oil, but insight is the spark that makes it valuable."*
