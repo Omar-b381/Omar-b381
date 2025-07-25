@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Welcome to Omar Ahmed's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYzNGdncDFzeGxpdHhhaWd4ZXZmN3lpN3I2NGx4ZHFmcmpzYnN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="28">
 </h3>
 
 <p align="center">
