@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20%26%20ML%20Engineer;Turning%20Data%20Into%20Decisions;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00b894&vCenter=true&size=22">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYzNGdncDFzeGxpdHhhaWd4ZXZmN3lpN3I2NGx4ZHFmcmpzYnN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif=22">
   </a>
 </p>
 
