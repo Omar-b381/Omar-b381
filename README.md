@@ -27,8 +27,7 @@ I'm a data analyst and machine learning engineer with over 4 years of experience
 - 🎓 **Student Performance Prediction** – supported interventions in education  
 
 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarbadrdata/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:omar.work381@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarbadrdata/)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:omar.work381@gmail.com)
 
 ---
 
