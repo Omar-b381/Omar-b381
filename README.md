@@ -1,32 +1,69 @@
-<h1 align="center">Hi, I'm Omar Ahmed 👋</h1>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF">
+
+<h3 align="center">
+  Welcome to Omar Ahmed's GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center">
-  🎯 Data Analyst | 📊 Machine Learning Engineer | 💡 Problem Solver  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20%26%20ML%20Engineer;Turning%20Data%20Into%20Decisions;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00b894&vCenter=true&size=22">
+  </a>
 </p>
 
 ---
 
-🌍 **About Me**
+- 📊 I’m a data analyst and machine learning engineer with 4+ years of experience.
+- 🧠 I build predictive models, recommenders, dashboards, and clean datasets.
+- 💼 I’ve worked with companies in e-commerce and marketing to deliver data-driven solutions.
+- 📈 My favorite tools include Python, SQL, Excel, Power BI, and Scikit-learn.
+- 📬 You can reach me anytime at: **omar.work381@gmail.com**
 
-I'm a data analyst and machine learning engineer with over 4 years of experience. I help businesses make smarter decisions through data — turning raw numbers into meaningful insights.
+---
 
-📌 **What I Do**
-- Analyze complex datasets and uncover hidden patterns
-- Build machine learning models for predictions and recommendations
-- Design interactive dashboards in Power BI and Excel
-- Clean and prepare raw data for accurate analysis
-- Create intuitive reports to drive data-informed decisions
+### 🌐 Connect with Me
 
-🛠️ **Tools & Technologies**
-`Python` | `Pandas` | `Scikit-Learn` | `SQL` | `Excel` | `Power BI` | `Jupyter`  
-`Matplotlib` | `Seaborn` | `Git` | `Machine Learning` | `EDA`
+<a href="https://www.linkedin.com/in/omarbadrdata/" target="_blank">
+  <img src="https://img.shields.io/badge/-Omar%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:omar.work381@gmail.com">
+  <img src="https://img.shields.io/badge/-omar.work381@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🚀 **Highlighted Projects**
-- 🔍 **Churn Prediction Model** – predicted customer attrition with 85% accuracy  
-- 🤖 **Product Recommender System** – boosted sales through smart suggestions  
-- 💬 **Sentiment Analysis** – classified customer reviews using NLP  
-- 🎓 **Student Performance Prediction** – supported interventions in education  
+---
 
-📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarbadrdata/)  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:omar.work381@gmail.com)
+### 🛠 Tech Stack
 
-🧠 *"Data is the new oil, but insight is the spark that makes it valuable."*
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar-ahmed&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ahmed&layout=compact" width="48%" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ahmed&theme=default" />
+</p>
+
+---
+
+<a href="https://komarev.com/ghpvc/?username=omar-ahmed&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=omar-ahmed&style=for-the-badge">
+</a>
+
