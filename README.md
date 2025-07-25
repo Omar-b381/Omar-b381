@@ -1,13 +1,13 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF">
+<img width="250" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYzNGdncDFzeGxpdHhhaWd4ZXZmN3lpN3I2NGx4ZHFmcmpzYnN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Data GIF">
 
 <h3 align="center">
   Welcome to Omar Ahmed's GitHub!
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYzNGdncDFzeGxpdHhhaWd4ZXZmN3lpN3I2NGx4ZHFmcmpzYnN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYzNGdncDFzeGxpdHhhaWd4ZXZmN3lpN3I2NGx4ZHFmcmpzYnN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20%26%20ML%20Engineer;Turning%20Data%20Into%20Decisions;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00b894&vCenter=true&size=22">
   </a>
 </p>
 
@@ -66,4 +66,3 @@
 <a href="https://komarev.com/ghpvc/?username=omar-ahmed&style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=omar-ahmed&style=for-the-badge">
 </a>
-
