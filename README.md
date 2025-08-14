@@ -49,8 +49,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-ahmed&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-ahmed&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar Ahmed Badr&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar Ahmed Badr&layout=compact" width="48%" />
 </p>
 
 ---
