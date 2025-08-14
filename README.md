@@ -63,6 +63,6 @@
 
 ---
 
-<a href="https://komarev.com/ghpvc/?username=omar-ahmed&style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=omar-ahmed&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=Omar-b381&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Omar-b381&style=for-the-badge">
 </a>
