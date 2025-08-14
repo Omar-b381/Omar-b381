@@ -49,8 +49,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar Ahmed Badr&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar Ahmed Badr&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-b381&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-b381&layout=compact" width="48%" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ahmed&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-b381&theme=default" />
 </p>
 
 ---
